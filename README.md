@@ -29,9 +29,9 @@ Después también haré un sensor capacitivo, con papel de plata para encenderlo
 
 
 RESUMEN DE LO QUE HACE EL GUSANITO:
-1-	BEHAVIOUR Sigue unas líneas, y se le encienden dos led que son los ojos. 
-2-	INPUT Sensor de luz 
-3-	OUTPUT Led ,dos azules y uno blanco para iluminar la foto resistencia.
-4-	PROCESSING Arduino
-5-	POWER Pila
-6-	EXTRAS  Pizarra, rotuladores, bichito de madera..
+1.	BEHAVIOUR Sigue unas líneas, y se le encienden dos led que son los ojos. 
+2.	INPUT Sensor de luz 
+3.	OUTPUT Led ,dos azules y uno blanco para iluminar la foto resistencia.
+4.	PROCESSING Arduino
+5.	POWER Pila
+6.	EXTRAS  Pizarra, rotuladores, bichito de madera..
