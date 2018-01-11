@@ -6,7 +6,7 @@ Consiste en un gusano que sigue líneas, estas líneas las dibujas tu, como tu q
 
 
 REFERENETS:
-En lo que me he inspirado para hacer mi trabajo es en los robots que siguen líneas , como el que podemos ver en la primera imagen. Y en el gusano de la película de Bichos, para darle un toque más animado al proyecto, es un gusano porque no quería hacer un coche, que es lo típico que siempre se hacer,  y he decidido hacer un gusano. También he visto videos de este tipo de robots para inspirare y ver como lo podía hacer
+En lo que me he inspirado para hacer mi trabajo es en los robots que siguen líneas. Y en el gusano de la película de Bichos, para darle un toque más animado al proyecto, es un gusano porque no quería hacer un coche, que es lo típico que siempre se hacer,  y he decidido hacer un gusano. También he visto videos de este tipo de robots para inspirare y ver como lo podía hacer
 
 
 MATERIALES:
@@ -20,6 +20,7 @@ MATERIALES:
 8.	Rotuladores
 9.	Motores (servomotores de rotación continua) 
 10.	Kit arduino para poder hacer todo el circuito.  
+(todos los materiales escritos los podemos encontra en amazon, a un precio asequible) 
 
 
 SENSORES: 
